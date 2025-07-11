@@ -17,6 +17,10 @@ html_logo = "_static/nist_el_logo_color.png"
 
 html_static_path = ["_static"]
 
+html_css_files = [
+    'ariac.css'
+]
+
 html_theme_options = {
     "logo": {
         "image_light": "_static/nist_el_logo_color.png",
